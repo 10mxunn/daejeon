@@ -1,0 +1,21 @@
+{
+  "folders": [
+	{
+		"name": ".vscode",
+		"path": "../../.vscode"
+	},
+	{
+		"name": "파이썬",
+		"path": "../파이썬"
+	},
+	{
+		"name": "python",
+		"path": "../python"
+	},
+	{
+		"name": "프로젝트",
+		"path": "."
+	}
+],
+  "settings": {}
+}
